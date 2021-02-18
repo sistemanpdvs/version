@@ -1,7 +1,7 @@
- Bem vindo histórico de atualizações NPDVs
- ----------------------------------------------------------------
-                        📅 30/01/2021
- ----------------------------------------------------------------
+ Bem vindo ao histórico de atualizações NPDVs
+  ----------------------------------------------------------------
+                        📅 18/02/2021
+  ----------------------------------------------------------------
 * Verificação de novas funcionalidades adicionadas.
 * Correção de pequenos bugs.
 * Saiba quando for lançado novas atualizações na inicialização do programa.
