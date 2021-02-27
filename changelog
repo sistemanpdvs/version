@@ -4,13 +4,14 @@
   ----------------------------------------------------------------
 * Verificação de novas funcionalidades adicionadas.
 * Correção de pequenos bugs.
-* Saiba quando for lançado novas atualizações na inicialização do programa.
+* Saiba quando for lançado novas atualizações na inicialização 
+  do programa.
 * Receba notificação de atualização na inicialização do script.
 * Teste de conexão na inicialização.
-Ao iniciar o script, ele faz a verificação da versão. (NOVO)
+  Ao iniciar o script, ele faz a verificação da versão. (NOVO)
 * Faça diversos processos com um só comando.
 * Adicionado a opção links úteis.
 * Back-end super simplificado, para implementação de novos códigos.
-e outras melhorias menores
+  e outras melhorias menores
 
 By: Nilsonlinux
